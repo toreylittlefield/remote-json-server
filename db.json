@@ -1,5 +1,13 @@
 {
   "bandname": {
-    "random": { "id": 1, "title": "json-server", "author": "typicode" }
+    "random": ["Justice Is Served",
+
+"Hot Mess",
+
+"Figure Out",
+
+"New Rule",
+
+"Breaking News"]
   }
 }
